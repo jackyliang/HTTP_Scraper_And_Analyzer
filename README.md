@@ -1,4 +1,4 @@
-# HTTP_Scraper_And_Analyzer
+# HTTP Header Analyzer
 
 HTTP response header scraper written in node.js using MongoDB as storage.
 
